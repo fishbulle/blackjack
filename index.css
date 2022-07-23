@@ -16,6 +16,12 @@ h1 {
     font-style: italic;
 }
 
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
 button {
     background: goldenrod;
     color: #016f32;
